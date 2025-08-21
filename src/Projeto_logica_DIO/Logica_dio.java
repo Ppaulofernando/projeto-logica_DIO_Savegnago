@@ -1,7 +1,7 @@
 package Projeto_logica_DIO;
 
 /*
- Projeto DIO Lógica De Programação
+ Projeto DIO-Savegnago Lógica De Programação
 O que dever ser utilizado :
 -Variáveis
 -Operadores
