@@ -5,4 +5,4 @@
 ✏ Projeto inicial de lógica de programação, que consiste em criar uma variável que armazene o nome personagem herói de um jogo e exibir as experiências(XP) dele. Para isto será necessário utilizar variáveis, operadores,
 laço de repetição e estruturas de decisões.
 
-☕♨ **Java,  a linguagem utilizada para a execução do proteto..**
+☕♨ **Java,  a linguagem utilizada para a execução do projeto..**
